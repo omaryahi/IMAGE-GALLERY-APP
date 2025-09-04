@@ -28,9 +28,8 @@ A Laravel-based image gallery application using Filament for the admin panel. Fe
 - PHP >= 8.1  
 - Composer  
 - Node.js >= 18  
-- NPM / Yarn  
-- MySQL or any other supported database  
-
+- NPM
+- sqlite
 ---
 
 ## Installation
