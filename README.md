@@ -9,11 +9,6 @@ A Laravel-based image gallery application using Filament for the admin panel. Fe
 - [Features](#features)  
 - [Requirements](#requirements)  
 - [Installation](#installation)  
-- [Configuration](#configuration)  
-- [Running the Project](#running-the-project)  
-- [Usage](#usage)  
-- [Folder Structure](#folder-structure)  
-- [License](#license)  
 
 ---
 
@@ -43,7 +38,7 @@ A Laravel-based image gallery application using Filament for the admin panel. Fe
 1. **Clone the repository**  
 
 ```bash
-git clone https://github.com/your-username/laravel-image-gallery.git
+git clone https://github.com/omaryahi/IMAGE-GALLERY-APP.git
 cd IMAGE-GALLERY-APP
 composer install
 npm install
@@ -52,3 +47,5 @@ php artisan key:generate
 php artisan migrate
 composer run dev
 http://127.0.0.1:8000
+```
+
