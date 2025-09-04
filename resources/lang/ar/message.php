@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'image_gallery' => 'معرض الصور',
+    'my_images' => 'صوري',
+    'favorites' => 'المفضلة',
+    'search_artworks' => 'البحث في الأعمال الفنية...',
+    'search_my_images' => 'البحث في صوري...',
+    'search_favorites' => 'البحث في المفضلة...',
+    'search' => 'بحث',
+    'loading' => 'جاري التحميل...',
+    'previous' => 'السابق',
+    'next' => 'التالي',
+    'page_of' => 'الصفحة :current من :total',
+    'add_new_image' => 'إضافة صورة جديدة',
+    'title' => 'العنوان',
+    'description' => 'الوصف',
+    'image' => 'الصورة',
+    'no_images_found' => 'لم يتم العثور على صور',
+    'no_favorites_found' => 'لا توجد مفضلات',
+    'remove_from_favorites' => 'إزالة من المفضلة',
+    'are_you_sure_delete' => 'هل أنت متأكد من أنك تريد حذف هذه الصورة؟',
+    'image_added' => 'تم إضافة الصورة بنجاح',
+    'favorite_added' => 'تم الإضافة إلى المفضلة',
+    'favorite_removed' => 'تم الإزالة من المفضلة',
+];

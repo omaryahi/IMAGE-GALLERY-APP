@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'image_gallery' => 'Image Gallery',
+    'my_images' => 'My Images',
+    'favorites' => 'Favorites',
+    'search_artworks' => 'Search artworks...',
+    'search_my_images' => 'Search my images...',
+    'search_favorites' => 'Search favorites...',
+    'search' => 'Search',
+    'loading' => 'Loading...',
+    'previous' => 'Previous',
+    'next' => 'Next',
+    'page_of' => 'Page :current of :total',
+    'add_new_image' => 'Add New Image',
+    'title' => 'Title',
+    'description' => 'Description',
+    'image' => 'Image',
+    'no_images_found' => 'No images found',
+    'no_favorites_found' => 'No favorites found',
+    'remove_from_favorites' => 'Remove from favorites',
+    'are_you_sure_delete' => 'Are you sure you want to delete this image?',
+    'image_added' => 'Image added successfully',
+    'favorite_added' => 'Added to favorites',
+    'favorite_removed' => 'Removed from favorites',
+];
